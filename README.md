@@ -34,8 +34,8 @@
             alt="swarup1912" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+<h2 align="center">Programming Languages</h2>
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -45,8 +45,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<h3 align="left">Frontend Development</h3>
-<p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer"> <img
+<h2 align="center">Frontend Development</h2>
+<p align="center"><a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -55,13 +55,13 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a></p>
 
-<h3 align="left">Backend Development</h3>
-<p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<h2 align="center">Backend Development</h2>
+<p align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a></p>
 
-<h3 align="left">AI/ML</h3>
-<p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
+<h2 align="center">AI/ML</h2>
+<p align="center"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
     height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
@@ -70,27 +70,27 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
                 width="40" height="40" /> </a></p>
 
-<h3 align="left">Database</h3>
-<p align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+<h2 align="center">Database</h2>
+<p align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" /> </a></p>
 
-<h3 align="left">Devops</h3>
-<p align="left"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
+<h2 align="center">Devops</h2>
+<p align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
     height="40" /> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
 </a></p>
 
-<h3 align="left">Backend as a Service</h3>
-<p align="left"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+<h2 align="center">Backend as a Service</h2>
+<p align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </a></p>
 
-<h3 align="left">Testing</h3>
-<p align="left"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
+<h2 align="center">Testing</h2>
+<p align="center"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
     alt="selenium" width="40" height="40" /> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40" />
@@ -98,12 +98,12 @@
     src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"
     alt="karma" width="40" height="40" /> </a></p>
 
-<h3 align="left">Other</h3>
-<p align="left">
+<h2 align="center">Tools</h2>
+<p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a></p>
 
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=chelluboinajyothiswarup&show_icons=true&locale=en&layout=compact"
         alt="chelluboinajyothiswarup" /></p>
 

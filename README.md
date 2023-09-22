@@ -55,11 +55,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a></p>
 
-<h2 align="center">Backend Development</h2>
-<p align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a></p>
-
 <h2 align="center">AI/ML</h2>
 <p align="center"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"

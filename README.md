@@ -73,14 +73,7 @@
 <h2 align="center">Devops</h2>
 <p align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
-    height="40" /> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-</a></p>
-
-<h2 align="center">Backend as a Service</h2>
-<p align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-</a></p>
+    height="40" /> </a> </p>
 
 <h2 align="center">Testing</h2>
 <p align="center"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
